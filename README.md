@@ -1,1 +1,0 @@
-# DecisionTreeClassifier-Ader-ncia-a-investimento
